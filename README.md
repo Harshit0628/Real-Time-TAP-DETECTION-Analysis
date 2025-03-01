@@ -60,5 +60,5 @@ The system is designed to be adaptable to different glass surfaces and mounting 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/accelerometer-tap-detection.git
+   git clone https://github.com/Harshit0628/Real-Time-TAP-DETECTION-Analysis.git
    cd accelerometer-tap-detection
