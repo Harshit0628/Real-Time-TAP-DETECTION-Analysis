@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 
-A machine learning-based system for detecting taps on glass surfaces using accelerometer data. This project provides a complete pipeline for processing accelerometer readings, training a tap detection model, and simulating real-time detection.
+A machine learning-based system for detecting taps on glass surfaces using accelerometer data. This pro ject provides a complete pipeline for processing accelerometer readings, training aa tap detection model, and simulating real-time detection.
 
 
 ## 📋 Table of Contents
